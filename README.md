@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a developer from Oslo, Norway</p>
+<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway</p>
 
 ###
 

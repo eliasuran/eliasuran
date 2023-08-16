@@ -58,7 +58,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mpu69&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mpu69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2&custom_title=da stack" height="150" alt="languages graph"  />
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elias.uran&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###

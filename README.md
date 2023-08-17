@@ -59,7 +59,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mpu69&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elias.uran&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center"
+  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=elias.uran&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=elias.uran&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]>
+</div>
 
 ###

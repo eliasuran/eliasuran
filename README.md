@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/525d444dd9e855d45d5a3c3115b11180ada47ef48ec59b4576d356cddf7c037f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6c43367335776232705f4d41414141432f786464696e672e676966"  />
-</div>
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=elias.uran&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Redux and Ruby on Rails<br>🎯 Goals: Make cool website</p>
+<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 I'm currently learning Nextjs and Redux</p>
 
 ###
 
@@ -60,6 +60,5 @@
   <img src="https://streak-stats.demolab.com?user=mpu69&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elias.uran&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
 ###
+

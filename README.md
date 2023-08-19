@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 I'm currently learning Nextjs and Redux</p>
+<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 I'm currently learning Vue + Nuxt</p>
 
 ###
 

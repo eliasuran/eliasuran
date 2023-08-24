@@ -2,6 +2,12 @@
 
 ###
 
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=elias.uran&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+</p>
+
+###
+
 <h2 align="left">🧑🏼‍💻About me</h2>
 
 ###
@@ -32,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />

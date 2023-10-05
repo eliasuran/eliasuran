@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 I'm currently learning Vue + Nuxt<br><br>🧑‍💻 I'm currently working on Treningsdagbok V2: https://github.com/ivermoka/Treningsdagbokv2</p>
+<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 I'm currently learning Vim<br><br>🧑‍💻 I'm currently working on Treningsdagbok V2: https://github.com/ivermoka/Treningsdagbokv2</p>
 
 ###
 

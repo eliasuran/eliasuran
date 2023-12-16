@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 I'm currently learning Vim<br><br>🧑‍💻 I'm currently working on Treningsdagbok V2: https://github.com/ivermoka/Treningsdagbokv2</p>
+<p align="left">🐀 My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 Vim advocate<br><br>🧑‍💻 I'm currently working on xddblog: https://github.com/mpu69/xddblog</p>
 
 ###
 
@@ -12,6 +12,8 @@
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="neovim logo"  />
 </div>
 
 ###

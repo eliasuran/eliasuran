@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🐀 My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 Vim advocate<br><br>🧑‍💻 I'm currently working on xddblog: https://github.com/mpu69/xddblog</p>
+<p align="left">🐀 My name is Elias and I'm a student at Elvebakken VGS in Oslo, Norway.<br><br>📚 Vim advocate<br><br>🧑‍💻 I'm currently working on xddblog: https://github.com/eliasuran/xddblog</p>
 
 ###
 
